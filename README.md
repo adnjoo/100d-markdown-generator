@@ -2,6 +2,7 @@
 
 ## instructions:
 ```
+git clone https://github.com/adnjoo/100d-markdown-generator
 node index.js
 ```
 
